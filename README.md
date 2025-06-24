@@ -14,7 +14,7 @@ I’m a passionate Software Engineer and Data Enthusiast with hands-on experienc
 - 💡 Proficient in **Python, SQL, Java**
 - 🚀 Experienced with **Apache Spark, Airflow, Kafka, GCP, AWS**
 - 🧠 Strong foundation in **DSA, ML, and system design**
-- 🔒 Interested in **data governance, pipeline optimization, and real-time data processing**
+- 🔒 Interested in **data analytics, dashboards building, data governance, pipeline optimization, and real-time data processing**
 
 ---
 
