@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Sushmitha Birudala 👩‍💻
+# 👋 Hi, I’m @Sushmitha 👩‍💻
 🎯 **Software Engineer | Data Engineer | Machine Learning Enthusiast**  
 📍 Based in IL, USA |
 - 📫 How to reach me 
