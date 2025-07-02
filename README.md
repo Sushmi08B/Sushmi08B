@@ -2,7 +2,7 @@
 🎯 **Data & BI Analyst | Data Engineer | Machine Learning Enthusiast**  
 📍 Based in IL, USA |
 - 📫 How to reach me 
-📫 [sushmithabirudala08@gmail.com](mailto:sushmithabirudala08@gmail.com)  
+📫 [sushmithab3626@gmail.com](mailto:sushmithab3626@gmail.com)  
 🌐 [GitHub](https://github.com/Sushmi08B) | [LinkedIn](https://www.linkedin.com/in/sushbirudala362/)
 
 ---
