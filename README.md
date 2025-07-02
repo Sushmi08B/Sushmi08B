@@ -2,7 +2,7 @@
 🎯 **Software Engineer | Data Engineer | Machine Learning Enthusiast**  
 📍 Based in IL, USA |
 - 📫 How to reach me 
-📫 [sushmithareddybirudala@gmail.com](mailto:sushmithareddybirudala@gmail.com)  
+📫 [sushmithabirudala08@gmail.com](mailto:sushmithabirudala08@gmail.com)  
 🌐 [GitHub](https://github.com/Sushmi08B) | [LinkedIn](https://www.linkedin.com/in/sushbirudala362/)
 
 ---
